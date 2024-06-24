@@ -57,6 +57,9 @@
    - Ensures Java's "write-once, run-anywhere" capability.
    - Platform-specific: different JVMs for different operating systems.
 
+     ![image](https://github.com/Akmeena4u/JAVA-Complete-Course/assets/93425334/38907354-f340-4599-9479-28aef53255ac)
+
+
 ### 2.4 Showing Output
 1. **System.out.println**:
    - Used to print output to the console.
