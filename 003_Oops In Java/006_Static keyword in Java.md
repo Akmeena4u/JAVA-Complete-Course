@@ -1,5 +1,8 @@
 The `static` keyword in Java is used to create members (variables and methods) that belong to the class itself, rather than to individual instances of the class. Here's an explanation of how `static` works for variables, methods, and blocks:
 
+![image](https://github.com/Akmeena4u/JAVA-Complete-Course/assets/93425334/c25687a5-7d18-4c81-ab09-33f4a38e79ec)
+
+
 ### Static Variables:
 
 1. **Belong to the Class:**
