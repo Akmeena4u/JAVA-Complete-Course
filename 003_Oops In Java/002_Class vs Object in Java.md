@@ -120,6 +120,9 @@ In summary, classes in Java define the structure and behavior of objects, while 
 ---
 ### Class v/s Object
 
+![image](https://github.com/Akmeena4u/JAVA-Complete-Course/assets/93425334/5194aea9-a4fc-4f82-9a59-413b5fe0338d)
+
+
 Here's a tabular comparison between classes and objects in Java:
 
 | Feature          | Classes                                   | Objects                                 |
