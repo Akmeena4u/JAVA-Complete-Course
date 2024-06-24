@@ -51,6 +51,12 @@ Output:
 ```
 Exception in thread "main" java.lang.ArithmeticException: Division by zero
 ```
+
+![image](https://github.com/Akmeena4u/JAVA-Complete-Course/assets/93425334/4a917ed3-6042-4980-9ade-461a43075f41)
+
+---
+![image](https://github.com/Akmeena4u/JAVA-Complete-Course/assets/93425334/7d512c51-3a61-4a7f-9584-c4323d2e1193)
+
 ---
 
 ###  Finally Block
