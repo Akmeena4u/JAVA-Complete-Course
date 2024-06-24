@@ -104,4 +104,4 @@ In Java, procedural programming and object-oriented programming (OOP) represent 
 
 This table summarizes the key differences between Procedural Programming and Object-Oriented Programming (OOP) in Java, focusing on their approach to data organization, code reusability, complexity management, encapsulation, and maintenance.
 
-Java primarily follows the OOP paradigm, leveraging classes, objects, inheritance, encapsulation, and polymorphism to build scalable and maintainable applications. However, procedural programming can still be used in Java for certain tasks or within specific methods/functions.
+Functional programming in Java has become more prominent with the introduction of features like lambda expressions, streams, and functional interfaces in Java 8 and later versions. It focuses on composing functions, immutability, and avoiding side effects. On the other hand, OOP in Java emphasizes objects, encapsulation, inheritance, and polymorphism, providing a structured approach to code organization and reuse. Both paradigms have their strengths and are suitable for different types of applications and problem domains.
